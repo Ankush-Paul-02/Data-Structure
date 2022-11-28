@@ -17,7 +17,7 @@ public class Bit_Manipulation_practice {
     }
 
     public static void main(String[] args) {
-        System.out.println(3 ^ 3);
+        System.out.println(3 ^ 3);  // xor of x ^ x
 
         swap(1, 2);
 
