@@ -1,4 +1,4 @@
-public class LinkedList_Reverese {
+public class LinkedList_Reveres {
     public static class Node {
         int data;
         Node next;
