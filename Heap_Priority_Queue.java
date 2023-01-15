@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Priority_Queue {
+class Heap_Priority_Queue {
 
     static class Student implements Comparable<Student> {   // Comparable is a interface => classes can compare it's objects
         String name;
