@@ -1,6 +1,6 @@
 public class DP_Unbounded_Knapsack {
 
-    public static int unboundedKnapsack_tabulation(int value[], int weight[], int totalWeight) {
+    public static int unboundedKnapsack_tabulation(int value[], int weight[], int totalWeight) {    //! O(n * totalWeight)
         int n = value.length;
         int dp[][] = new int[n+1][totalWeight+1];
         
