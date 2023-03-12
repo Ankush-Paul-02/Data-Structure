@@ -1,4 +1,4 @@
-public class DP_fibonacci {
+public class DP_Fibonacci {
 
     public static int fibonacci_memoization(int n, int dp[]) {  //! O(n)
         if(n == 0 || n == 1) {
