@@ -1,6 +1,6 @@
 # Data Structures and Algorithms :computer::bar_chart:
 
-This repository provides an overview of common data structures and algorithms implemented in various programming languages. :books:
+This repository provides an overview of common data structures and algorithms implemented in Java language. :books:
 
 ## Table of Contents :book:
 
